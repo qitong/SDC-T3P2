@@ -13,3 +13,13 @@ Though I have finished the project (I think …), I have to ask several question
 
 ## Result
 ---
+The model is trained on my Ubuntu with NVidia 1080Ti.   
+The segmentation result resides in run/ folder.   
+(The FCN network result is coarse at boundary and I'm working on SegNet on my own to try to solve the problem.)  
+The following images are from my result:
+
+
+![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505136512.4469707/umm_000065.png)  
+![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505136512.4469707/um_000060.png) 
+![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505136512.4469707/uu_000089.png) 
+
