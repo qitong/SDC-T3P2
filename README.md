@@ -19,7 +19,7 @@ The segmentation result resides in run/ folder.
 The following images are from my result:
 
 
-![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505136512.4469707/umm_000065.png)  
-![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505136512.4469707/um_000060.png) 
-![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505136512.4469707/uu_000089.png) 
+![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505363622.1494074/umm_000065.png)  
+![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505363622.1494074/um_000060.png) 
+![](https://github.com/qitong/SDC-T3P2/raw/master/runs/1505363622.1494074/uu_000089.png) 
 
